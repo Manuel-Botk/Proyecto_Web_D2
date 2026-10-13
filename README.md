@@ -1,7 +1,6 @@
 ## Autores
 -Juan Manuel Bejarano
 -Kevin David Beltrán
--Juan Sebastián Rios
 # Tienda D2
 
 Tienda D2 es una página web de comercio electrónico inspirada en un supermercado
